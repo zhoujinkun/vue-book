@@ -20,7 +20,7 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-
+node + mysql
 1.写服务端，确保数据能够正确返回
 2.在API中增加方法，调取数据功能
 3.在那个组件中应用API，假如基础组件使用，在该组件的父级中调用方法，然后通过父传子将数据传给子元素
@@ -32,3 +32,9 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 开发删除图书功能
 
 开发图书详情
+
+添加图书
+
+滚动加载 下拉刷新
+
+缓存主页
